@@ -1,2 +1,3 @@
 # ReduxSimpleStarter
-Modern React with Redux Course Project - From Udemy
+
+Project based on [Redux](https://www.udemy.com/react-redux/) course.
